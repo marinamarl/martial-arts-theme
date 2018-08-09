@@ -1,0 +1,26 @@
+{
+  "name": "martial-arts",
+  "version": "1.0.0",
+  "description": "gulp-sass",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "*",
+    "browser-sync": "*",
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-clean-css": "*",
+    "gulp-filter": "*",
+    "gulp-image": "*",
+    "gulp-sass": "*",
+    "gulp-uglify": "*",
+    "gulp-watch": "*",
+    "gulp-util": "*",
+    "gulp-concat": "*",
+    "gulp-connect": "*"
+  }
+}
