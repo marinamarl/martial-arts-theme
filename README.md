@@ -1,4 +1,4 @@
-Typical Wordpress Theme
+Martial Arts Theme
 ======================
 
 ### Requirements
