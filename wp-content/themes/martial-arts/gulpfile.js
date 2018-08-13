@@ -44,7 +44,7 @@ var team                    = 'WPTie <your_email@email.com>'; // Team's Email ID
 
 // Style related.
 var styleSRC                = './assets/css/style.scss'; // Path to main .scss file.
-var styleDestination        = './styles/style.css'; // Path to place the compiled CSS file.
+var styleDestination        = './styles'; // Path to place the compiled CSS file.
 // Default set to root folder.
 
 // JS Vendor related.
