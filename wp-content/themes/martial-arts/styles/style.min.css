@@ -1,1 +1,6 @@
-a{text-decoration:none}
+header{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-box-orient:horizontal;-webkit-box-direction:reverse;-webkit-flex-direction:row-reverse;-ms-flex-direction:row-reverse;flex-direction:row-reverse;height:100vh}
+header .site-branding{width:100%}
+header #primary-menu{height:100%}
+header .main-navigation{width:20%}
+header .main-navigation ul{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;height:100%;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;background-color:#00000073}
+header .main-navigation ul a{display:block;text-decoration:none;color:#ffffff8c;position:relative}
